@@ -7,10 +7,9 @@ echo "Bonjour, José! ☀️ Hope you slept well."
 echo "Today is:"
 date
 
-#Open your favorite website (I can change this!)
-open https://dk.pinterest.com/josethereject/creative-compass-for-jrlp/
+#Open my very won Substack (or whatever website I want, I  can change this!)
+open "https://substack.com/@joserizzo?utm_source=user-menu"
 
 #Sign off with good vibes
 echo "Bon appétit, maestro. 🎶💻🍞"
-
 
