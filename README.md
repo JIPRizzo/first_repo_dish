@@ -13,5 +13,5 @@ Welcome to my very first GitHub repository of 2025. It's a  small but flavorful 
 To run the scripts, use:
 
 ```bash
-bash brunch.sh
+bash morning_delight.sh
 
